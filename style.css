@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+  }
+body{
+  background-color: #11100e;
+     padding: 1em;
+    }
+h1, h2{
+  color: #f4f3f2;
+      }
+.hr{
+  border-top:1px solid #e4e3e2;
+    margin: 8px 0;
+   }
+img{
+  width: 10vw;
+  position: fixed;
+  bottom: 0;
+  right:0;
+}
