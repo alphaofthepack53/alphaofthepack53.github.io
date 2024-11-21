@@ -8,6 +8,7 @@ body{
   background-color: #11100e;
   padding: 1em;
   width: 100dvw;
+  min-height:100dvh;
     }
 h1, h2{
   color: #f4f3f2;
@@ -17,8 +18,8 @@ h1, h2{
   margin: 0.5em 0;
    }
 img{
-  width: 10vw;
-  position: fixed;
-  bottom: 0;
-  right:0;
+  max-width:100%;
+  height:auto;
+  vertical-align:middle;
+  font-style:italic;
 }
