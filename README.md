@@ -10,7 +10,7 @@
 
 | Name  | Age | Country |
 |-------|-----|---------|
-| Alice | 25  | USA     |
+| Alice | ![test](https://media.btd6index.win/fc9874e6-dd89-4ee2-9105-14d10e964321)  | USA     |
 | Bob   | 30  | UK      |
 ---
 | #  | Movie Title                               | Release Date     |
